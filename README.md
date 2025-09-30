@@ -1,12 +1,34 @@
-# React + Vite
+# 🍅 Tomato — Food Delivery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web app for browsing food menus, selecting dishes, and making orders.  
+Live version: https://tomato-kariman.netlify.app/  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features
 
-## Expanding the ESLint configuration
+- Display of **menu categories** (e.g. Salad, Rolls, Pasta, Dessert, etc.)  
+- Browse and view **top dishes** with images, names, and prices  
+- Search or filter menu items by category or keyword  
+- Navigation between sections: Home, Menu, Contact, etc.  
+- “Sign In” / user authentication (login) interface  
+- Prompt or link to download a mobile app (or mobile version)  
+- Responsive layout (desktop & mobile)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Technologies
+
+**Frontend / UI**
+- React 
+- React Router
+- CSS   
+- Responsive design (Media queries, Flex / Grid)  
+
+**Tools / Utilities**
+- dotenv for environment variables  
+- Prettier  
+- Git & GitHub for version control  
+- Vite
+
+
