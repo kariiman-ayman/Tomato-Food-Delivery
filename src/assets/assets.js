@@ -94,7 +94,7 @@ export const menu_list = [
     menu_image: menu_2,
   },
   {
-    menu_name: "Deserts",
+    menu_name: "Desserts",
     menu_image: menu_3,
   },
   {
@@ -199,7 +199,7 @@ export const food_list = [
     price: 14,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Desserts",
   },
   {
     _id: "10",
@@ -208,7 +208,7 @@ export const food_list = [
     price: 22,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Desserts",
   },
   {
     _id: "11",
@@ -217,7 +217,7 @@ export const food_list = [
     price: 10,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Desserts",
   },
   {
     _id: "12",
@@ -226,7 +226,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Desserts",
   },
   {
     _id: "13",
